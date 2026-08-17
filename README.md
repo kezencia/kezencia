@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=900&color=C8A2C8&center=true&vCenter=true&width=520&lines=crafting+clean+logic;soft+digital+spaces;minimal+terminal+workflows" alt="pixel typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=900&color=C8A2C8&center=true&vCenter=true&width=520&lines=building+useful+things;open+source+%26+developer+tools;clean+code%2C+calm+interfaces" alt="pixel typing animation" />
 
   <br />
 </div>
 
 <p align="center">
-  <i>"building clean systems, calm interfaces, and software that feels considered."</i>
+  <i>"building useful software with a quiet, deliberate touch."</i>
 </p>
 
 <p align="center">
-  i enjoy writing efficient code with a quiet, deliberate touch.<br />
-  currently exploring modern architectures, clean workflows, and thoughtful UI patterns.
+  i enjoy turning ideas into simple, reliable software.<br />
+  currently exploring open source, developer tooling, automation, and thoughtful UI.
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 
 <div align="center">
   <p>
-    <code>build calmly</code> &nbsp;•&nbsp; 
-    <code>think clearly</code> &nbsp;•&nbsp; 
-    <code>ship considered</code>
+    <code>build calmly</code> &nbsp;•&nbsp;
+    <code>think clearly</code> &nbsp;•&nbsp;
+    <code>ship thoughtfully</code>
   </p>
 
   <sub>thanks for stopping by ~</sub>
