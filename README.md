@@ -1,3 +1,5 @@
+# hi, i'm vynspace
+
 <div align="center">
 
 <!-- Apple Space Gray Sleek Banner -->
@@ -34,7 +36,9 @@ currently exploring modern architectures, clean workflows, and thoughtful UI pat
   <thead>
     <tr>
       <th align="left"><code>~/vynspace</code></th>
-      <th align="right"><code>status</code></th>
+      <th align="right">
+        <img src="https://raw.githubusercontent.com/everpeace/everpeace/master/assets/green_dot.gif" width="8px" alt="online" /> <code>active</code>
+      </th>
     </tr>
   </thead>
   <tbody>
@@ -53,6 +57,12 @@ currently exploring modern architectures, clean workflows, and thoughtful UI pat
     <tr>
       <td><b>space</b></td>
       <td align="right"><code>quiet corners of the web</code></td>
+    </tr>
+    <tr>
+      <td><b>profile views</b></td>
+      <td align="right">
+        <img src="https://komarev.com/ghpvc/?username=vynspace&label=&color=0A84FF&style=flat-square" alt="profile views" />
+      </td>
     </tr>
   </tbody>
 </table>
