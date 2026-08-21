@@ -24,7 +24,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="LINK_PROJECT_1">
-        <img src="SCREENSHOT_PROJECT_1.png" width="280" style="border-radius: 8px; border: 1px solid #4A3B4A;" alt="Project One" />
+        <img src="https://raw.githubusercontent.com/kezencia/kezencia/main/assets/image1.png" width="280" style="border-radius: 8px; border: 1px solid #4A3B4A;" alt="Project One" />
       </a>
       <br/><b>Project One</b>
       <br/><sub>satu kalimat: masalah apa yang diselesaikan</sub>
