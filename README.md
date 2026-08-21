@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kezencia/kezencia/main/assets/pixel_mascot.svg" width="90" alt="pixel mascot" />
+  <img src="https://raw.githubusercontent.com/kezencia/kezencia/main/assets/pixel_mascot.svg" width="150" alt="pixel mascot" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=900&color=C8A2C8&center=true&vCenter=true&width=520&lines=building+useful+things;open+source+%26+developer+tools;clean+code%2C+calm+interfaces" alt="pixel typing animation" />
 
