@@ -13,5 +13,8 @@
   i like figuring things out and turning them into something that just works.<br />
   lately that means AI tools, open source, and the occasional late-night automation script.
 </p>
+
+
+
 </div>
 
